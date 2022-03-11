@@ -30,3 +30,15 @@ git add file2
 touch file2
 ll
 vim file2
+git remote add origin https://github.com/Mounika-le1/Devopss.git
+git branch
+git push -u origin master
+ll
+vim file2
+ll
+cat file2
+git add .
+git commit -m "My second commit" .
+git log
+git branch
+git push -u origin master
